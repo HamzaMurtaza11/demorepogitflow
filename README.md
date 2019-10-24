@@ -1,2 +1,7 @@
-# demorepogitflow
-repository to study git flow concepts
+# DEMOREPOGITFLOW
+## REMOTE REPOSITORY
+## to study difference b/w local and remote repository
+##### GITHUB PROVIDES US HOSTED SERVER
+
+_to add remote repository folder, we simply use_
+  
