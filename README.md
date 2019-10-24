@@ -3,7 +3,7 @@
 ## to study difference b/w local and remote repository
 ##### GITHUB PROVIDES US HOSTED SERVER
 
-_to add remote repository folder, we simply use_
+_to add remote repository folder, we simply use_'git push'
 **the text will be in bold :)**
 __this will be also in bold__
   
